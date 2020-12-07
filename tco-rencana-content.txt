@@ -3,6 +3,9 @@ RENCANA KONTEN TCO
 - Javascript
   * ES6
   * Framework Javascript
+   ^ Vue
 - Struktur Data Besar
 - PHP Frameworks
+  ^ Laraval
 - Vlog
+- Phyton
