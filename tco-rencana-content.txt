@@ -1,5 +1,7 @@
 RENCANA KONTEN TCO
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Frameworks
 - Vlog
