@@ -7,6 +7,6 @@ RENCANA KONTEN TCO
    ^ React
 - Struktur Data Besar
 - PHP Frameworks
-  ^ Laraval
+  ^ Laravel
 - Vlog
 - Phyton
